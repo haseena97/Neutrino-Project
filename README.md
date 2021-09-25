@@ -3,6 +3,9 @@
 ## General info
 ![neutrino](https://user-images.githubusercontent.com/71859510/134769495-f85791df-4344-441d-a75a-c956efe02579.PNG)
 ![neutrino2](https://user-images.githubusercontent.com/71859510/134769602-cb30261e-369f-4413-8c82-39a81002e673.PNG)
+* Below are stellar HR and Kippenhahn diagram
+![neutrino4](https://user-images.githubusercontent.com/71859510/134769793-1508a798-450a-41d9-8fc5-d079d31c01fb.PNG)
+![neutrino5](https://user-images.githubusercontent.com/71859510/134769795-e27e19fc-714e-45fe-8346-3886f0165ec5.PNG)
 
 ## Analysis methodology
 * Raw data needs some processing to be useful in the public code
